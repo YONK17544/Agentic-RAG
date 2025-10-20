@@ -1,0 +1,7 @@
+langchain_community==0.3.12
+langchain_openai==0.2.12
+langchain_text_splitters==0.3.3
+unstructured==0.16.11
+faiss-cpu==1.9.0.post1
+langgraph==0.2.59
+typing_extensions==4.12.2
